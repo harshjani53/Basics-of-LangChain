@@ -1,0 +1,6 @@
+langchain~=0.0.348
+streamlit~=1.29.0
+python-dotenv~=1.0.0
+wikipedia
+numexpr
+openai

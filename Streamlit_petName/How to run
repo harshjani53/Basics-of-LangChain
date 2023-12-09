@@ -1,0 +1,3 @@
+#To run the streamlit project
+1) install all libraries using pip install -r requirements.txt
+2) in terminal write streamlit run runner.py
